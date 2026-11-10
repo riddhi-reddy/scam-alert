@@ -16,15 +16,5 @@ Alternatively, if the VS Code Live Server extension is already installed, right-
 - app.js: screens, scenario data and interactions
 - .nojekyll: static GitHub Pages publishing
 
-## Publish free on GitHub Pages
-1. Create a public GitHub repository (for example scam-alert).
-2. Upload these extracted files directly to the repository root, not the ZIP or an enclosing folder.
-3. Commit to main.
-4. Open Settings > Pages.
-5. Under Build and deployment choose Deploy from a branch.
-6. Choose main and / (root), then Save.
-7. Wait for deployment and use the website URL displayed on the Pages settings page.
-Visitors to the published public site do not need GitHub or ChatGPT accounts.
-
 ## Scope
 This is an academic interactive prototype. All calls, reports and feedback are simulated. Message analysis uses illustrative local rules, not a trained AI model. No entered messages are sent to an external service. Session settings reset on reload. Language selection saves a preference only; the interface remains in English.
